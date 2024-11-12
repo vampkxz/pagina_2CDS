@@ -5,8 +5,7 @@
     }
     body{
     font-family: "Poppins", sans-serif;
-    }
-    
+    }   
     header{
     background-color: #424e61;
     color: white;
@@ -18,7 +17,6 @@
         padding: 0;
         box-sizing: border-box;
     } 
-
         body{
         font-family: "Poppins", sans-serif;
         }
@@ -62,19 +60,16 @@ justify-content: center;
     padding: 50px;
     text-align: center;
 }
-
 .estudante-nome{
     text-align: center;
 }
 .estudante-imagem{
     width: 120px;
 }
-
 .estudante-icone{
     background-image: background-color(#faae43);
     padding: 24px 0;
 }
-
 .estudante.div{
     text-align: center;
     padding: 24px 0;
@@ -96,12 +91,9 @@ justify-content: center;
     padding: 50px;
     text-align: center;
 }
-
 .logo_rodape{
     height: 80px;
     padding: 12px 0;
-
-
 }
 .link{
     color: #ffffff;
