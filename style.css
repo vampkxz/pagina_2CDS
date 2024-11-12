@@ -8,7 +8,7 @@
     }
     header{
     background-color: #b3b3b3;
-    color: #b3b3b3;
+    color: #ffffff;
     width: 100%;
     padding: 20px;
     }
@@ -71,7 +71,7 @@
     }
     .escola{
     background-image: linear-gradient(#40A2E3,#7FC2EF);
-    color: #b3b3b3;
+    color: white;
     display: flex;
     justify-content:center;
     padding: 24px 0;
